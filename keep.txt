@@ -1,0 +1,1 @@
+<button onclick="window.location.href='./dapps.html';"  class="mt-2 w-full font-fontHeading text-sm max-sm:py-2.5 lg:mt-4 lg:text-lg">Claim Token</button>
